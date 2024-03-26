@@ -1,3 +1,5 @@
 .DS_Store
-
+.idea
 export
+*.*[0-9]*.toe
+*.mov
